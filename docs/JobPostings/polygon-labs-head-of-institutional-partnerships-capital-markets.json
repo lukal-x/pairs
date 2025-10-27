@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "Head of Institutional Partnerships Capital Markets",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Polygon Labs",
+    "sameAs": "https://www.polygonlabs.com"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Remote"
+    }
+  },
+  "datePosted": "2025-10-20",
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": "90,000",
+      "unitText": "USD"
+    }
+  },
+  "salaryCurrency": "USD",
+  "employmentType": "FULL_TIME",
+  "industry": "Finance, Business Development",
+  "description": "Polygon Labs is hiring a Head of Institutional Partnerships Capital Markets. Apply at the link provided.",
+  "applyLink": "https://jobboardsearch.com/redirect?utm_source=reddit&utm_medium=bot&utm_id=jobboarsearch&utm_term=aworker.io&rurl=aHR0cHM6Ly9hd29ya2VyLmlvL2ZpbmFuY2UvLWhlYWQtb2YtaW5zdGl0dXRpb25hbC1wYXJ0bmVyc2hpcHMtY2FwaXRhbC1tYXJrZXRzLS8=",
+  "validThrough": "2025-11-20"
+}
