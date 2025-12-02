@@ -1,0 +1,46 @@
+{
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "title": "Full Stack Developer (Elixir/React)",
+    "hiringOrganization": {
+        "@type": "Organization",
+        "name": "KURABU",
+        "sameAs": "https://jobrack.eu",
+        "logo": "https://kurabu-logo-url.com/logo.png"
+    },
+    "jobLocation": {
+        "@type": "Place",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Remote",
+            "addressRegion": "CET"
+        }
+    },
+    "datePosted": "2025-11-24",
+    "employmentType": "FULL_TIME",
+    "description": "Join KURABU to develop features impacting thousands of sports club members. Take ownership of end-to-end development with an emphasis on Elixir for backend and React for frontend.",
+    "responsibilities": [
+        "Lead and contribute to full-stack development.",
+        "Own the complete development lifecycle including architecture, implementation, testing, and deployment.",
+        "Design and implement scalable system architecture and robust APIs.",
+        "Work closely with team members to deliver the product roadmap."
+    ],
+    "qualifications": [
+        "4+ years of experience as a full stack or backend-leaning engineer.",
+        "Strong backend experience with Elixir (or related technologies).",
+        "Solid expertise with PostgreSQL and REST APIs.",
+        "Experience in React and Typescript is desirable."
+    ],
+    "baseSalary": {
+        "@type": "MonetaryAmount",
+        "value": {
+            "@type": "QuantitativeValue",
+            "value": 4000,
+            "unitText": "USD",
+            "maxValue": 7000,
+            "minValue": 4000
+        }
+    },
+    "incentiveCompensation": "20 days of paid holiday including public holidays.",
+    "applicationInstructions": "Apply only through JobRack. Respectful communication is expected."
+}

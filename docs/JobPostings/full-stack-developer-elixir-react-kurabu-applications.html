@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+  <head>
+    <style>
+      body {
+        margin: 0 auto;
+      }
+      .container {
+          display: flex;
+          flex-direction: row;
+      }
+    
+      .container iframe {
+          border: none;
+          display: block;
+          margin: 5% auto;
+          width: 90%;
+          min-height: 500px;
+      }
+      .container section {
+          flex: 1;
+          overflow-y: scroll;
+          height: 100vh;
+      }
+    
+      .container article {
+          background: #eee;
+          padding: 1em;
+          margin: 1em;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <section>
+        <iframe src="full-stack-developer-elixir-react-kurabu.json"></iframe>
+      </section>
+      
+      <section>
+        <iframe src="/pairs/People/person1.json"></iframe>
+	... you?
+      </section>
+    </div>
+  </body>
+</html>
